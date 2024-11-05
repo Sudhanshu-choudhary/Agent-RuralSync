@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { AUTH_BASE_URL, AGENT } from "../../constants";
 import axiosInstance from "@/lib/axios";
 import toast from "react-hot-toast";
